@@ -1,0 +1,6 @@
+sayac = 100          # Tamsayı atama (int)
+km   = 1000.0       # Virgüllü sayı atama (float)
+ad    = "Çorlu"       # Katar (String)
+print(sayac)
+print(km)
+print(ad)
